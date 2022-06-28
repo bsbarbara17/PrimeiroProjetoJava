@@ -7,6 +7,6 @@ public class HelloWord {
         System.out.print("Usuário, digite seu nome: ");
         String usuario = entrada.next();
 
-        System.out.print("Bem vindo " + usuario);
+        System.out.print("Bem vindo " + usuario + "!");
     }
 }
